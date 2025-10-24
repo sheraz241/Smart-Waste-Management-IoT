@@ -1,3 +1,22 @@
+# Smart Waste Management System Using IoT
+
+An IoT-powered waste management platform built with **Laravel**, **Arduino**, and **AWS Cloud**, designed to enable smart city waste collection and monitoring.  
+Smart bins equipped with ultrasonic and moisture sensors monitor waste levels in real-time and send data to a centralized web dashboard.  
+The system automates route optimization for garbage trucks using the **Google Maps API**, reducing operational costs and enhancing efficiency.
+
+### 🔹 Key Features
+- Real-time waste level and moisture detection via IoT sensors  
+- Centralized dashboard for monitoring bin status  
+- Google Maps–based route optimization for collectors  
+- Cloud integration with AWS for data storage and analytics  
+- Role-based access for admin and drivers  
+- Notification system and performance reports  
+
+### 🧠 Technologies Used
+Laravel • Arduino UNO • ESP8266 (Wi-Fi module) • AWS Cloud • Google Maps API • MySQL • Android Studio • Java • XML  
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,7 +79,3 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
