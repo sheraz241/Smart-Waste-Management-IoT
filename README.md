@@ -17,6 +17,12 @@ Laravel • Arduino UNO • ESP8266 (Wi-Fi module) • AWS Cloud • Google Maps
 
 ---
 
+## 📘 Documentation
+Detailed Phase 1 project documentation is available in the `/docs` folder.  
+You can view it here: [Phase 1 Documentation →](./docs/README.md)
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
